@@ -1,0 +1,13 @@
+{
+    // Включение / выключение работы плагина OfficialDSStatus
+    "Enabled": true,
+
+    // Устанавливать флаг Valve DS в начале каждого раунда
+    "SetValveDSOnRoundStart": true,
+
+    // Устанавливать флаг Valve DS при загрузке карты
+    "SetValveDSOnMapLoad": true,
+
+    // Выводить отладочные сообщения в консоль сервера
+    "DebugLog": true
+}

@@ -1,0 +1,15 @@
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\obj\Release\net10.0\linux-x64\OfficialDSStatus.csproj.AssemblyReference.cache
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\obj\Release\net10.0\linux-x64\OfficialDSStatus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\obj\Release\net10.0\linux-x64\OfficialDSStatus.AssemblyInfoInputs.cache
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\obj\Release\net10.0\linux-x64\OfficialDSStatus.AssemblyInfo.cs
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\obj\Release\net10.0\linux-x64\OfficialDSStatus.csproj.CoreCompileInputs.cache
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\build\net10.0\linux-x64\resources\config.jsonc
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\build\net10.0\linux-x64\OfficialDSStatus.deps.json
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\build\net10.0\linux-x64\OfficialDSStatus.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\build\net10.0\linux-x64\OfficialDSStatus.pdb
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\build\net10.0\linux-x64\SQLite.Interop.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\obj\Release\net10.0\linux-x64\Official.6307AFA5.Up2Date
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\obj\Release\net10.0\linux-x64\OfficialDSStatus.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\obj\Release\net10.0\linux-x64\refint\OfficialDSStatus.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\obj\Release\net10.0\linux-x64\OfficialDSStatus.pdb
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\OfficialDSStatus\obj\Release\net10.0\linux-x64\ref\OfficialDSStatus.dll

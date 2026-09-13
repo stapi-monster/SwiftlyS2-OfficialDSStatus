@@ -1,0 +1,4 @@
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\OfficialDSStatus\resources\config.jsonc
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\OfficialDSStatus\OfficialDSStatus.dll
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\OfficialDSStatus\OfficialDSStatus.pdb
+C:\Users\molch\OneDrive\Desktop\swiftlys2\plugins\build\win-x64\OfficialDSStatus\OfficialDSStatus.deps.json
